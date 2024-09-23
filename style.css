@@ -8,7 +8,7 @@ body{
     
 }
 
-@media only screen and (max-width: 380px){
+@media only screen and (max-width: 450px){
     body{
         box-sizing: border-box;
         margin-left:auto;
@@ -38,7 +38,7 @@ body{
     padding: 25px;
 }
 
-@media only screen and (max-width:380px){
+@media only screen and (max-width:450px){
     .profile{
         text-align: center;
         background-color: grey;
@@ -107,7 +107,7 @@ button{
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 16px;
+    font-size: 8px;
     cursor: pointer;
     width: 200px;
     margin: 4px auto;
